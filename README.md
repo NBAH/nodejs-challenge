@@ -16,13 +16,13 @@ Test coverage can be collected via `npm run test -- --coverage`
 ## Tasks
 
 #### 1. Permutations
-Solution is located at src/permutations/*
+Solution is located at src/permutations/
 
 It can be tested via `ts-node src/permutations/main.ts *10`
 
 
 #### 2. Data-model
-Solution is located at src/data-model/*
+Solution is located at src/data-model/
 
 It can be tested via `ts-node src/data-model/main.ts`
 
