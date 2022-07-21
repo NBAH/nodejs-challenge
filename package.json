@@ -4,7 +4,8 @@
   "scripts": {
     "setup": "husky install",
     "lint": "eslint \"src/**/*.{ts}\" --fix",
-    "test": "jest"
+    "test": "jest",
+    "test:ci": "jest --ci"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
