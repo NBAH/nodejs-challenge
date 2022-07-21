@@ -20,6 +20,21 @@ Solution is located at src/permutations/
 
 It can be tested via `ts-node src/permutations/main.ts *10`
 
+Example input:
+```javascript
+ts-node src/permutations/main.ts *10**
+```
+
+Example output:
+```javascript
+[
+  '01000', '11000',
+  '01010', '11010',
+  '01001', '11001',
+  '01011', '11011'
+]
+```
+
 
 #### 2. Data-model
 Solution is located at src/data-model/
