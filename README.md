@@ -1,5 +1,7 @@
 # nodejs-challenge
 
+Task descriptions could be found at `nodejs_challenge_tasks.pdf`
+
 #### Project setup
 
 1) Install node v14+
